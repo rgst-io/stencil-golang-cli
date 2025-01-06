@@ -20,7 +20,7 @@ package plugin
 import (
 	"fmt"
 
-	"go.rgst.io/stencil/pkg/extensions/apiv1"
+	"go.rgst.io/stencil/v2/pkg/extensions/apiv1"
 )
 
 // GetLicense returns a license from Github's License API.

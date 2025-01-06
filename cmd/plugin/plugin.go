@@ -19,8 +19,8 @@ import (
 	"os"
 
 	"github.com/rgst-io/stencil-golang/internal/plugin"
-	"go.rgst.io/stencil/pkg/extensions/apiv1"
-	"go.rgst.io/stencil/pkg/slogext"
+	"go.rgst.io/stencil/v2/pkg/extensions/apiv1"
+	"go.rgst.io/stencil/v2/pkg/slogext"
 )
 
 // main starts the stencil-golang plugin

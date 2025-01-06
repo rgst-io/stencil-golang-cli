@@ -5,7 +5,7 @@ go 1.23.4
 require (
 	github.com/google/go-github/v68 v68.0.0
 	github.com/jaredallard/vcs v0.5.1
-	go.rgst.io/stencil v0.15.4
+	go.rgst.io/stencil/v2 v2.0.1
 	gotest.tools/v3 v3.5.1
 )
 

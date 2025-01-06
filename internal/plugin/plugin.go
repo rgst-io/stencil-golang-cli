@@ -25,7 +25,7 @@ import (
 	"github.com/google/go-github/v68/github"
 	"github.com/jaredallard/vcs"
 	"github.com/jaredallard/vcs/token"
-	"go.rgst.io/stencil/pkg/extensions/apiv1"
+	"go.rgst.io/stencil/v2/pkg/extensions/apiv1"
 )
 
 // _ ensures that StencilGolangPlugin fits the apiv1.Implementation interface.
